@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|c:\\users\\chungle\\source\\repos\\levanchung_cd233667_kiemtracuoiki\\kiemtracuoiki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|c:\\users\\chungle\\source\\repos\\levanchung_cd233667_kiemtracuoiki\\kiemtracuoiki\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\kiemtracuoiki\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|c:\\users\\chungle\\source\\repos\\levanchung_cd233667_kiemtracuoiki\\kiemtracuoiki\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\formbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|c:\\users\\chungle\\source\\repos\\levanchung_cd233667_kiemtracuoiki\\kiemtracuoiki\\formdanhsachsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\formdanhsachsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\kiemtracuoiki\\formdanhsachsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\formdanhsachsachcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\kiemtracuoiki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\kiemtracuoiki\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AE53FBB-95C6-4587-8C75-41ECF9514A64}|KiemTraCuoiKi\\KiemTraCuoiKi.csproj|solutionrelative:kiemtracuoiki\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\Form1.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\Form1.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\Form1.cs",
+              "RelativeToolTip": "KiemTraCuoiKi\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:43:23.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormBaoCao.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\FormBaoCao.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormBaoCao.cs",
+              "RelativeToolTip": "KiemTraCuoiKi\\FormBaoCao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:20:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormBaoCao.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\FormBaoCao.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\KiemTraCuoiKi\\KiemTraCuoiKi\\FormBaoCao.cs [Design]",
+              "RelativeToolTip": "..\\KiemTraCuoiKi\\KiemTraCuoiKi\\FormBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:18:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDanhSachSachcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormDanhSachSachcs.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\FormDanhSachSachcs.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\KiemTraCuoiKi\\KiemTraCuoiKi\\FormDanhSachSachcs.cs [Design]",
+              "RelativeToolTip": "..\\KiemTraCuoiKi\\KiemTraCuoiKi\\FormDanhSachSachcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:45:43.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormDangNhap.cs",
+              "RelativeToolTip": "KiemTraCuoiKi\\FormDangNhap.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA+wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:41:12.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDanhSachSachcs.cs",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormDanhSachSachcs.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\FormDanhSachSachcs.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormDanhSachSachcs.cs",
+              "RelativeToolTip": "KiemTraCuoiKi\\FormDanhSachSachcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:51:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\KiemTraCuoiKi\\KiemTraCuoiKi\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\KiemTraCuoiKi\\KiemTraCuoiKi\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:39:13.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ChungLe\\source\\repos\\LeVanChung_CD233667_KiemTraCuoiKi\\KiemTraCuoiKi\\Form1.cs",
+              "RelativeDocumentMoniker": "KiemTraCuoiKi\\Form1.cs",
+              "ToolTip": "C:\\Users\\ChungLe\\source\\repos\\KiemTraCuoiKi\\KiemTraCuoiKi\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\KiemTraCuoiKi\\KiemTraCuoiKi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:35:36.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
